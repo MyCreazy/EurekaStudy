@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Dec 14 14:30:28 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=RegistryCenter_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.sl.RegistryCenter.App
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
